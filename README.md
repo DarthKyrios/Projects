@@ -7,10 +7,10 @@
 
 CLAIMS
 --------------------
-· This code is not bad intentioned, but the ones who use it for their evil purposes. 
-· Feel free to use it, edit it and rebuild it as you wish
-· Do not expect it to be perfect, but rather intuitive and functional
-· Regular crashes with unexpected integers are to be expected. Just use common sense
+- This code is not bad intentioned, but the ones who use it for their evil purposes. 
+- Feel free to use it, edit it and rebuild it as you wish
+- Do not expect it to be perfect, but rather intuitive and functional
+- Regular crashes with unexpected integers are to be expected. Just use common sense
 
 ##############
 # HOW TO USE #
